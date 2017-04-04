@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "ff4ce3bf19a5d2e18325f54e99469d27"
+build_time: [544507219, 819952000]
+inputs:
+  "/Users/tingshi/temp/Cool/Cool/ViewController.swift": [544507216, 0]
+  "/Users/tingshi/temp/Cool/Cool/AppDelegate.swift": [544507216, 0]
